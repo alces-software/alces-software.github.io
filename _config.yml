@@ -1,0 +1,18 @@
+title: Alces Software
+email: github@alces-software.com
+description: > 
+baseurl: "" 
+url: "" 
+owner: Alces Software
+email: github@alces-software.com
+website: www.alces-software.com
+facebook_username:
+twitter_username: alcessoftware
+github_username: alces-software
+address:
+  - line: Alces Software, 4 Murdock Road
+  - line: Bicester, Oxfordshire, OX26 4PP
+telephone: +44 (0) 1865 249 065
+copyright: Alces Software Ltd
+google_api_key:
+markdown: kramdown
