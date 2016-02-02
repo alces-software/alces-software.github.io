@@ -1,18 +1,12 @@
+# Site settings
 title: Alces Software
 email: github@alces-software.com
-description: > 
-baseurl: "" 
-url: "" 
-owner: Alces Software
-email: github@alces-software.com
-website: www.alces-software.com
-facebook_username:
-twitter_username: alcessoftware
-github_username: alces-software
-address:
-  - line: Alces Software, 4 Murdock Road
-  - line: Bicester, Oxfordshire, OX26 4PP
-telephone: +44 (0) 1865 249 065
-copyright: Alces Software Ltd
-google_api_key:
+description: > # this means to ignore newlines until "baseurl:"
+  Alces Software Products
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://alces-software.github.io/" # the base hostname & protocol for your site
+twitter_username: alces-software
+github_username: alces-software 
+
+# Build settings
 markdown: kramdown

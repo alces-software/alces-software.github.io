@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include /head.html %}
+
+	<body id="top">
+
+        {% include /header.html %}
+
+        <!-- Banner -->
+        <section id="banner" style="background-image: url(../images/banner.jpeg)">
+            <div class="inner">
+                <h2>Alces Software</h2>
+                <p>HPC & Cloud Software Solutions</p>
+                <ul class="actions">
+                    <li><a href="#one" class="button big alt">Learn More</a></li>
+                </ul>
+            </div>
+        </section>
+        {{ content }}
+        {% include /footer.html %}
+
+    </body>
+
+</html>
