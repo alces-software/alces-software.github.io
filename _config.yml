@@ -10,3 +10,5 @@ github_username: alces-software
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
