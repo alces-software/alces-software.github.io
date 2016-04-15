@@ -1,12 +1,12 @@
 # Site settings
-title: Alces Software
-email: github@alces-software.com
-description: > # this means to ignore newlines until "baseurl:"
+title: Alces Flight
+email: github@alces-flight.com
+description: >
   Alces Software Products
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://alces-software.github.io/" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://alces-flight.github.io/"
 twitter_username: alces-software
-github_username: alces-software 
+github_username: alces-software
 
 # Build settings
 markdown: kramdown
